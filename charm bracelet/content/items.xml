@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive description="Spread the Love!" gfx="collectibles_charm_bracelet.png" name="Charm Bracelet" />
+</items>

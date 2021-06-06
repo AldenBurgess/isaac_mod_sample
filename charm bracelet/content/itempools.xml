@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Charm Bracelet" Weight="1000" DecreaseBy="1.0" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedTreasure">
+		<Item Name="Charm Bracelet" Weight="1000" DecreaseBy="1.0" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>
